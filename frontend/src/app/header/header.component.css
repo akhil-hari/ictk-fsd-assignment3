@@ -1,0 +1,45 @@
+#navbar{
+    background-color:brown !important;
+    color:white !important;
+    height:fit-content;
+}
+
+.nav-tabs .nav-link{
+    background-color:brown;
+    border: none;
+    color: #fff;
+    font-size: 12px;
+    }
+.nav-tabs .nav-link:hover{
+    background-color: gray;
+    }
+    
+ .nav-tabs .nav-link.active{
+    background-color: #1714bb !important;
+    color: #fff !important;
+    font-size: 12px;
+    }
+.nav-tabs .nav-link.active:hover{
+    background-color: gray;
+    }
+    
+a{
+    margin-left: 10px;
+    margin-top:10px;
+    border-radius: 5px;
+    padding:5px;
+    background-color: white;
+
+}
+
+a:hover{
+    border:none;
+    background-color: #1c7dec;
+    color:white;
+    padding:5px;
+    border-radius: 5px;
+}
+a.active{
+    background-color:gray;
+    
+}

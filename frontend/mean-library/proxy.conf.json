@@ -1,0 +1,6 @@
+{ 
+    "/api":{
+        "target":"http://ictk-fsd-assignment3.herokuapp.com",
+        "secure":false
+    }
+}
